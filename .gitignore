@@ -39,6 +39,6 @@ out/
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
-!artifacts/app-card-delivery (1).jar
+!artifacts/app-card-delivery.jar
 !**/src/main/**
-!**/src/test/**S
+!**/src/test/**
