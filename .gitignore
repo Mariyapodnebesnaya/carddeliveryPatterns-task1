@@ -1,10 +1,6 @@
 HELP.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
-!artifacts/app-card-delivery.jar
-!**/src/main/**
-!**/src/test/**
 
 ### STS ###
 .apt_generated
@@ -40,3 +36,9 @@ out/
 *.zip
 *.tar.gz
 *.rar
+
+### Exclusions ###
+!gradle/wrapper/gradle-wrapper.jar
+!artifacts/app-card-delivery (1).jar
+!**/src/main/**
+!**/src/test/**S
