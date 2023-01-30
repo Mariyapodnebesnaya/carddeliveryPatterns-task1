@@ -2,6 +2,7 @@ HELP.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
+!artifacts/app-card-delivery.jar
 !**/src/main/**
 !**/src/test/**
 
